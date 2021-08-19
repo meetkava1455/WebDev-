@@ -1,0 +1,41 @@
+body{
+
+    background-color: orange;
+    padding: 0%;
+    margin: 0%;
+}
+h4
+{
+ text-align: right; font-family: 'algerian'Arial, Helvetica, sans-serif;
+}
+.container
+{
+background-color: orchid;
+border: 5px solid greenyellow;
+margin: 0px; 
+padding: 20px;
+max-width: 350px;
+border-radius: 5px;
+}
+
+.buton
+{
+color: greenyellow;
+background-color: brown;
+border: 1px;
+padding: 10px;
+}
+
+.buton:hover
+{
+    color: red;
+    border:saddlebrown;
+}
+.cont-img
+{
+margin:auto;
+border-color: red;
+border: 20px;
+display: block;
+
+}
